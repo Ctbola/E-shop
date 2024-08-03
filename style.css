@@ -1,0 +1,90 @@
+    .main-body {
+        background-image: url("image/back1.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .set {
+        background-image: url("image/back1.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .logo {
+        background-image: url("image/2.png");
+        background-size: contain;
+        height: 100px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    @font-face {
+        font-family: "Quicksand";
+        src: url("font/Quicksand-Medium.ttf");
+    }
+    
+    @font-face {
+        font-family: "Honey";
+        src: url("font/HoneyScript-Light.ttf");
+    }
+    
+    @font-face {
+        font-family: "prompt";
+        src: url("font/Prompt-Light.ttf");
+    }
+    
+    * {
+        font-family: "prompt";
+        font-size: 14px;
+    }
+    
+    .t1 {
+        font-family: "Honey";
+        font-size: x-large;
+        letter-spacing: 3px;
+        font-size: 40px;
+        margin-top: 5px;
+        color: rgb(8, 8, 8);
+    }
+    
+    .img {
+        height: 100px;
+    }
+    
+    .sl {
+        margin-left: 45px;
+    }
+    
+    .center {
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+    
+    .background {
+        background-image: url("image/student.png");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .background1 {
+        background-image: url("image/teacher.png");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .t2 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
+    .red {
+        background-color: rgb(147, 199, 229);
+    }
+    
+    .blue {
+        background-color: blue;
+    }
